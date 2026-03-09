@@ -1,5 +1,5 @@
-# Tax Farm
+# tax farm
 
-Basic details for creating tax farm to enable fair launches on evm chains..
+basic details for creating tax farm to enable fair launches on evm chains ... aha stack wif W3RD backend
 
-Site design rip from lovebloodcreative.com
+site design rip from lovebloodcreative.com
